@@ -15,7 +15,7 @@
 
 pkt файл
 
-[![]](https://github.com/dAmp1r/Fault_tolerance_HW_01/blob/main/hw.pkt)
+https://github.com/dAmp1r/Fault_tolerance_HW_01/blob/main/hw.pkt
 
 Задание 2.
 
